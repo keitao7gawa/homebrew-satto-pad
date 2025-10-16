@@ -1,6 +1,6 @@
 cask "satto-pad" do
-    version "1.0.0"
-    sha256 "c591ebf813f1e225757403e988ce78ad865550aa7048c0dfa18c1f853071241c"
+    version "1.1.0"
+    sha256 "6f45b17836c9810a90adad39c2133c00fae6dc57033bd7d27b7f4b8116aea575"
     url "https://github.com/keitao7gawa/satto-pad/releases/download/v#{version}/SattoPad.dmg"
   
     name "Satto Pad"
